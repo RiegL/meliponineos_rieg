@@ -1071,7 +1071,8 @@ footer {
     .section-service {
         min-width:100%;
         margin-bottom:30px;
-        border-top: 1px solid #333 ;
+        
+        border: 0;
     }    
    
     .section-service:first-child {
@@ -1218,4 +1219,3 @@ footer {
     /*quiser por setinhas aqui*/
     
 }
-
