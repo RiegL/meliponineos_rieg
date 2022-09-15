@@ -920,10 +920,12 @@ footer {
     .section-service {
         min-width:50%;
         margin-bottom:30px;
-        border: 0; 
+        border-left:1px solid #333; 
+        
     }
     .section-service:first-child {
-        border-left:0;
+        border-right:1px solid #333;
+        
     }
     .section-team {
         max-width:580px;
@@ -1069,10 +1071,12 @@ footer {
     .section-service {
         min-width:100%;
         margin-bottom:30px;
-        border: 0;
+        border-bottom: 1px solid #333 ;
+        
     }
-    .section-service:first-child {
-        border-left:0;
+    .section-service:last-child {
+        border: 0;
+
     }
 
     .section-projects--filters {
