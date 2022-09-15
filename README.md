@@ -7,3 +7,4 @@
 
  <h3>Visualize o projeto no link <a href="https://playful-kitsune-a91a1e.netlify.app" target="_blank">  :arrow_right: Prévia publicada :arrow_left:</a></h3> 
 
+# rancho_rieg
