@@ -1071,18 +1071,10 @@ footer {
     .section-service {
         min-width:100%;
         margin-bottom:30px;
-        border-bottom: 1px solid #333 ;
-        
-    }
-    .section-service:last-child {
-        border: 0;
-    }
-
-    .section-service:left {
-        border: 0;
-    }
-
-    .section-service:right {
+        border-top: 1px solid #333 ;
+    }    
+   
+    .section-service:first-child {
         border: 0;
     }
 
