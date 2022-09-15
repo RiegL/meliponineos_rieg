@@ -1076,7 +1076,14 @@ footer {
     }
     .section-service:last-child {
         border: 0;
+    }
 
+    .section-service:left {
+        border: 0;
+    }
+
+    .section-service:right {
+        border: 0;
     }
 
     .section-projects--filters {
