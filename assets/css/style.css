@@ -1183,19 +1183,6 @@ footer {
         margin-bottom:0;
     }
 
-    .footer--area {
-        flex-direction:column;
-    }
-    .footer--item {
-        margin-bottom:20px;
-    }
-    .footer-social {
-        justify-content: center;
-    }
-    .footer--item h3{
-        display: none;
-    }
-
     .slider{
         height: 400px;
         width: 400px;
