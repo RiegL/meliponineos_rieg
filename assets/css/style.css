@@ -85,7 +85,7 @@ header{
     border-radius: 20px;
 }
 .button:hover {
-    background-color: #00ff33;
+    background-color: grey;
     transition: ease 800ms;
     
 }
@@ -591,25 +591,32 @@ footer {
     margin-right: 20px;
     padding: 15px;
     text-align: center;
+    color: #000;
+    
 }
+
 .section-price--item:last-child {
     margin-right:0;
 }
 .section-price--item-name{
    text-transform: uppercase;
-   font-size: 15px;
+   font-size: 18px;
    font-weight: 600;
    margin-bottom: 5px;
+   
+   
 }
 .section-price--item-money{
-    font-size: 30px;
+    font-size: 28px;
     font-weight: bold;
     margin-bottom: 5px;
+    
 }
 .section-price--item-period{
     text-transform: uppercase;
     font-size: 13px;
     margin-bottom: 5px;
+    
 }
 .section-price--item-point {
     font-size:15px;
