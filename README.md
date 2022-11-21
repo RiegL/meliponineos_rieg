@@ -5,4 +5,4 @@
 <p>:heavy_check_mark: Para tablet e celuar 100% funcional</p>
 
 
- <h3>Visualize o projeto no link <a href="https://riegl.github.io/rancho_rieg/" target="_blank">  :arrow_right: Prévia publicada :arrow_left:</a></h3> 
+ <h3>Visualize o projeto no link <a href="" target="_blank">  :arrow_right: Prévia publicada :arrow_left:</a></h3> 
