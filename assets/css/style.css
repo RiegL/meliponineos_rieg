@@ -102,7 +102,7 @@ header{
     background-color: #333;
     background-image: url('../images/abelha.jpg');
     background-size: cover;
-    background-position: right;
+    background-position: center;
     overflow: hidden;
 
 }
@@ -808,6 +808,10 @@ footer {
         top: 100px;
         right: 0;
     }
+    .banner h1 {
+        font-size:30px;
+        text-align: center;
+    }
     .menu ul {
         flex-direction:column;
     }
@@ -970,6 +974,8 @@ footer {
 
     .banner h1 {
         font-size:30px;
+        text-align: center;
+        margin-left: auto;
     }
     .banner h2 {
         font-size:17px;
