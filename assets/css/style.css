@@ -100,10 +100,11 @@ header{
 .banner{
     height:calc(100vh - 100px);
     background-color: #333;
-    background-image: url('../images/casa01.jpg');
+    background-image: url('../images/abelha.jpg');
     background-size: cover;
-    background-position: bottom;
+    background-position: right;
     overflow: hidden;
+
 }
 .banner .sliders{
     width:1000vw ;
